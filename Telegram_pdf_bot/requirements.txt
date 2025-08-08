@@ -151,7 +151,6 @@ python-json-logger==3.3.0
 python-telegram-bot==22.1
 pytz==2025.2
 
-pywinpty==2.0.15
 PyYAML==5.3.1
 pyzmq==26.3.0
 qrcode==8.2
